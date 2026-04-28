@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.pyc
+*.pyo
+.env
+debug_sumy.py
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.pdf
